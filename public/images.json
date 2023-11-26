@@ -1,9 +1,20 @@
 {  
    "main" : ["p11 1.png","p13 1.png","p14 1.png","p15 1.png","p12 1.png"],
    "carousel": [
-      { "id": 1, "src": "strawhats.png" },
-      { "id": 2, "src": "zoro.png" },
-      { "id": 3, "src": "p11 1.png" }
+      { "id": 1, "src": "1.jpg.jpg" },
+      { "id": 2, "src": "2.jpg.jpg" },
+      { "id": 3, "src": "3.jpg.jpg" },
+      { "id": 4, "src": "4.jpg" },
+      { "id": 5, "src": "5.jpg" },
+      { "id": 6, "src": "6.jpg.jpg" },
+      { "id": 8, "src": "8.jpg.jpg" },
+      { "id": 9, "src": "9.jpg.jpg" },
+      { "id": 10, "src": "10.jpg.jpg" },
+      { "id": 11, "src": "11.jpg.jpg" },
+      { "id": 12, "src": "12.jpg" },
+      { "id": 13, "src": "13.jpg.jpg" },
+      { "id": 14, "src": "14.jpg" },
+      { "id": 15, "src": "15.jpg" }
     ]
 
 }
