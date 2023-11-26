@@ -1,0 +1,9 @@
+{  
+   "main" : ["p11 1.png","p13 1.png","p14 1.png","p15 1.png","p12 1.png"],
+   "carousel": [
+      { "id": 1, "src": "strawhats.png" },
+      { "id": 2, "src": "zoro.png" },
+      { "id": 3, "src": "p11 1.png" }
+    ]
+
+}
