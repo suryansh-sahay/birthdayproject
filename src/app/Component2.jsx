@@ -10,7 +10,7 @@ export default function Component2() {
           <div className="relative">
             <div className="absolute -inset-1 bg-gradient-to-r from-pink-400/20 to-rose-400/20 blur-lg"></div>
             <p className="relative text-2xl sm:text-3xl md:text-4xl font-light text-gray-800 italic leading-relaxed">
-              "In the canvas of life, your image is the most exquisite sketch, capturing the essence of grace and beauty"
+              In the canvas of life, your image is the most exquisite sketch, capturing the essence of grace and beauty
             </p>
           </div>
           <div className="flex justify-center md:justify-start space-x-2">
@@ -23,8 +23,8 @@ export default function Component2() {
           <div className="absolute -inset-4 bg-gradient-to-br from-pink-300 to-rose-300 rounded-2xl blur-lg opacity-50 animate-pulse"></div>
           <div className="group relative">
             <div className="absolute -inset-2 bg-gradient-to-r from-pink-500 to-rose-500 rounded-xl opacity-75 blur transition duration-1000 group-hover:opacity-100 animate-tilt"></div>
-            <img 
-              src={main[1]} 
+            <img
+              src={main[1]}
               className="relative rounded-xl shadow-lg transform transition duration-500 group-hover:scale-[1.02] w-full object-cover aspect-[4/3]"
               alt="Romantic Memory"
             />

@@ -16,16 +16,16 @@ export default function Component1() {
                   Priyanshi
                 </h2>
                 <p className="text-base sm:text-lg text-gray-700 font-light leading-relaxed italic opacity-0 animate-fadeInUp">
-                  "To the one who makes my world brighter with every smile, 
-                  today we celebrate the most beautiful soul I know."
+                  To the one who makes my world brighter with every smile,
+                  today we celebrate the most beautiful soul I know.
                 </p>
               </div>
             </div>
             <div className="relative w-48 h-48 sm:w-56 sm:h-56 md:w-64 md:h-64 flex-shrink-0 animate-slideIn">
               <div className="absolute -inset-4 bg-gradient-to-r from-pink-400 to-rose-400 rounded-full blur-lg opacity-75 animate-pulse"></div>
-              <img 
-                className="relative w-full h-full rounded-full object-cover border-4 border-white shadow-xl transform hover:rotate-6 transition-all duration-500" 
-                src={main[0]} 
+              <img
+                className="relative w-full h-full rounded-full object-cover border-4 border-white shadow-xl transform hover:rotate-6 transition-all duration-500"
+                src={main[0]}
                 alt="Birthday Girl"
               />
               <div className="absolute -bottom-2 -right-2 w-12 h-12 bg-pink-500 rounded-full flex items-center justify-center shadow-lg animate-bounce">
