@@ -13,7 +13,7 @@ export default function Component1() {
                   Happy Birthday
                 </h1>
                 <h2 className="text-2xl sm:text-3xl font-semibold text-rose-600 font-display animate-bounce">
-                  Priyanshi
+                  Pragati
                 </h2>
                 <p className="text-base sm:text-lg text-gray-700 font-light leading-relaxed italic opacity-0 animate-fadeInUp">
                   To the one who makes my world brighter with every smile,
